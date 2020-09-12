@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html,body,div,ul,ol,li,a,span,p,h1,h2,h3,h4,h5,h6{
+    font-size: 14px;
+    font-family:Arial,"宋体", Serif;
+    font-style: normal;
+    font-weight: bold;
+}
+.box{
+    width: 1200px;
+    height: 500px;
+    margin: 0 auto;
+    border: 1px #333 solid;
+    overflow: hidden;
+}
+#btn{
+    width: 200px;
+    height:50px;
+    background: red;
+    font-size: 14px;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+    border: 0;
+    position: relative;
+    left:360px;
+    bottom:50px;
+}
